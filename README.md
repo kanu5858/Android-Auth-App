@@ -10,9 +10,9 @@ AuthApp is a robust, production-ready Android application demonstrating a comple
 
 ## 📸 Screenshots
 
-| Splash Screen | Login | Register | Home |
-|:---:|:---:|:---:|:---:|
-| <img src="screenshots/splash.png" width="200" /> | <img src="screenshots/login.png" width="200" /> | <img src="screenshots/register.png" width="200" /> | <img src="screenshots/home.png" width="200" /> |
+| Login | Register | Home |
+|:---:|:---:|:---:|
+| <img src="screenshots/login.png" width="200" /> | <img src="screenshots/register.png" width="200" /> | <img src="screenshots/home.png" width="200" /> |
 
 ---
 
