@@ -12,7 +12,7 @@ AuthApp is a robust, production-ready Android application demonstrating a comple
 
 | Splash Screen | Login | Register | Home |
 |:---:|:---:|:---:|:---:|
-| *(Image)* | *(Image)* | *(Image)* | *(Image)* |
+| <img src="screenshots/splash.png" width="200" /> | <img src="screenshots/login.png" width="200" /> | <img src="screenshots/register.png" width="200" /> | <img src="screenshots/home.png" width="200" /> |
 
 ---
 
@@ -87,7 +87,7 @@ com.kanu.loginregister
 
 1. **Clone the project**:
    ```bash
-   git clone https://github.com/yourusername/AuthApp.git
+   git clone https://github.com/kanu5858/Android-Auth-App.git
    ```
 2. **Open in Android Studio**: (Ladybug or later recommended).
 3. **Sync Gradle**: Let the project download all dependencies.
